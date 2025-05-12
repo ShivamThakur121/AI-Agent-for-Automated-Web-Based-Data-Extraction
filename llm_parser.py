@@ -2,7 +2,7 @@ import pandas as pd
 from google import genai
 
 # --- Set up Gemini Client ---
-API_KEY = "AIzaSyCCB2-Aovw6ObOGM5863S0muIVgSXRk8-U"
+API_KEY = "GIVE YOUR API"
 client = genai.Client(api_key=API_KEY)
 
 # --- Read Google Sheet ---
