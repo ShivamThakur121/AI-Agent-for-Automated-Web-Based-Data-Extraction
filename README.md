@@ -20,3 +20,9 @@ Run the app:
 ```bash
 streamlit run main.py
 ```
+Screenshot:-
+https://github.com/ShivamThakur121/AI-Agent-for-Automated-Web-Based-Data-Extraction/blob/c9bacf3737b3f91e1d971548d7be0c35a2afe6ad/Screenshot%20(67).png
+
+https://github.com/ShivamThakur121/AI-Agent-for-Automated-Web-Based-Data-Extraction/blob/c9bacf3737b3f91e1d971548d7be0c35a2afe6ad/Screenshot%20(68).png
+
+https://github.com/ShivamThakur121/AI-Agent-for-Automated-Web-Based-Data-Extraction/blob/c9bacf3737b3f91e1d971548d7be0c35a2afe6ad/Screenshot%20(69).png
